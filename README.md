@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Hello! I like making game engines, and I'm currently working on the developemnt of a game engine.
-I can program in:
-- 🤖 C++
-- ☕ Java
-- 🐍 Python
+me like make game engine
+
+i make game engine:
+https://github.com/thatalloguy/LomusEngine/
 
 
 ## ⚡Stats
