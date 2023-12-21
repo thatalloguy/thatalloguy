@@ -5,11 +5,15 @@ me like make game engine
 i make game engine:
 https://github.com/thatalloguy/LomusEngine/
 
-programming language I can work in:
-.🐍Python
-.☕java
-.🤖c++
-.🌐Web stuff (html, css, javascript)
+## 💻 programming language I can work in:
+
+🐍Python
+
+☕java
+
+🤖c++
+
+🌐Web stuff (html, css, javascript)
 
 
 ## ⚡Stats
