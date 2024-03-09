@@ -3,22 +3,17 @@
 me like make game engine
 
 i make game engine:
-https://github.com/thatalloguy/LomusEngine/
+https://github.com/teamGameEngine/gameEngine
 
 ## 💻 Stuff I can work with:
 
-🐍Python
+🤖 C++
 
-☕java
+🐍 Python
 
-🤖c++
+☕ Java
 
--Laravel
-
--Opengl
-
--ImGui
-
+🕸️ Laravel
 
 
 ## ⚡Stats
