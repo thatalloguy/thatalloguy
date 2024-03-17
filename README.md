@@ -3,7 +3,6 @@
 me like make game engine
 
 i make game engine:
-https://github.com/teamGameEngine/gameEngine
 
 ## 💻 Stuff I can work with:
 
