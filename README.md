@@ -16,9 +16,9 @@ i make game engine:
 
 
 ## ⚡Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatalloguy&theme=radical&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatalloguy&theme=radical)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatalloguy&theme=radical)](https://github.com/thatalloguy/LomusEngine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatalloguy&theme=radical)](https://github.com/thatalloguy/Atomus)
 
