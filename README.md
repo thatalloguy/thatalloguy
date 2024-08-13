@@ -19,8 +19,6 @@ i make game engine:
 
 ☕ Java
 
-🕸️ Laravel
-
 🌐 Html + css
 
 
