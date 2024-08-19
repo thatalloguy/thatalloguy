@@ -1,5 +1,5 @@
 
-## My [website](https://thatalloguy.github.io/):
+## My [website](https://thatalloguy.github.io/)
 
 
 
