@@ -1,9 +1,6 @@
 
-### Current project im working on:
-[Duck Watchers 2 (video game written for scratch)](https://github.com/thatalloguy/GameProject)
+## My [website](https://thatalloguy.github.io/):
 
-## My website:
-# https://thatalloguy.github.io/
 
 
 
